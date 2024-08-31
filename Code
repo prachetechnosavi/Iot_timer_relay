@@ -7,7 +7,7 @@
 #include "ap_page.h"
 
 #define HOTSPOT_SSID "IOT_RELAY"
-#define HOTSPOT_PSWD "trydontcry"
+#define HOTSPOT_PSWD "tryit" //Create any password you want for your Access point
 #define HOTSPOT_CHANNEL 1
 #define HIDE_SSID false
 #define NO_OF_CONNECT 1
